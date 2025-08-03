@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name": "Orange",
+        "price" :600,
+        "image": "orange.jpeg"
+    },
+    {
+        "id":2,
+        "name": "Apple",
+        "price" :350,
+        "image": "apples.jpeg"
+    },
+    {
+        "id":3,
+        "name": "Papaya",
+        "price" :850,
+        "image": "Papaya.jpeg"
+    },
+    {
+        "id":1,
+        "name": "Melon",
+        "price" :800,
+        "image": "melon.jpeg"
+    },
+    {
+        "id":5,
+        "name": "Grapes",
+        "price" :2000,
+        "image": "grape.jpeg"
+    },
+    {
+        "id":6,
+        "name": "Banana",
+        "price" :550,
+        "image": "banana.jpeg"
+    },
+    {
+        "id":7,
+        "name": "Cherries",
+        "price" :640,
+        "image": "cherries.jpeg"
+    },
+    {
+        "id":8,
+        "name": "Pumpkin",
+        "price" :1700,
+        "image": "pumpkin.jpeg"
+    },
+    {
+        "id":9,
+        "name": "Potatoe",
+        "price" :1200,
+        "image": "potatoe.jpeg"
+    },
+    {
+        "id":10,
+        "name": "Peas",
+        "price" :700,
+        "image": "peas.jpeg"
+    },
+    {
+        "id":11,
+        "name": "Avocado",
+        "price" :1000,
+        "image": "avocado.jpeg"
+    },
+    {
+        "id":12,
+        "name": "Carrot",
+        "price" :900,
+        "image": "carrot.jpeg"
+    },
+    {
+        "id":13,
+        "name": "Cucumber",
+        "price" :450,
+        "image": "cucumber.jpeg"
+    },
+    {
+        "id":14,
+        "name": "Tomatoe",
+        "price" :920,
+        "image": "tomatoe.jpeg"
+    },
+    {
+        "id":15,
+        "name": "Onion",
+        "price" :870,
+        "image": "onions.jpeg"
+    },
+    {
+        "id":16,
+        "name": "Beetroot",
+        "price" :780,
+        "image": "beetroot.jpeg"
+    }
+]
