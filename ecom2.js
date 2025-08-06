@@ -145,11 +145,11 @@ checkoutBtn.addEventListener('click', () => {
 
    // Save to memory and go to checkout page
    addCartToMemory();
-   window.location.href = 'checkout.html';
+   window.location.href = 'checkout2.html';
 });
 
 const initApp = () => {
-   fetch(`products.json`)
+   fetch(`laptops.json`)
       .then(response => response.json())
       .then(data => {
          listProducts = data;

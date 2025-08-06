@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name": "USB Headphones with Noise-Canceling Microphone,",
+        "price" :10270,
+        "image": "headphone2.jpg.webp"
+    },
+    {
+        "id":2,
+        "name": "Jbl TUNE 700BT - Overear Headphones - Black",
+        "price" :11000,
+        "image": "headphone1.jpg"
+    },
+    {
+        "id":3,
+        "name": "Bluetooth Headset Touch Sensor HIFI Headphones",
+        "price" :4880,
+        "image": "airpod1.jpg"
+    },
+    {
+        "id":4,
+        "name": "XIAOMI Redmi Buds 6 Play Earbuds Black",
+        "price" :15500,
+        "image": "airpod2.jpg"
+    },
+    {
+        "id":5,
+        "name": "F9 Bluetooth Wireless Earphone Wwith 2000mAh Battery Headset",
+        "price" :4347,
+        "image": "airpod3.jpg"
+    },
+    {
+        "id":6,
+        "name": "BLAZE Pro3 In-ear Wireless Sports Headphones Stereo Headphones",
+        "price" :6123,
+        "image": "airpod4.jpg"
+    },
+    {
+        "id":7,
+        "name": "Lenovo Thinkplus GM2 Pro True BT5.3 Wireless BT Gaming Headsets",
+        "price" :9660,
+        "image": "airpod5.jpg"
+    },
+    {
+        "id":8,
+        "name": "Lenovo XT60 Bluetooth Headset Wireless Headphones",
+        "price" :18400,
+        "image": "airpod6.jpg"
+    },
+    {
+        "id":9,
+        "name": "Kignote 2.09''inch Smartwatch Native Storm Waterproof T900D",
+        "price" :8415,
+        "image": "iwatch.jpg"
+    },
+    {
+        "id":10,
+        "name": "Itel Water Proof Native Storm Smart Watch - Black",
+        "price" :14500,
+        "image": "iwatch2.jpg"
+    },
+    {
+        "id":11,
+        "name": "Itel Storm Ultra 2.02'' HD Scratchproof IP68 O23 Smart Watch",
+        "price" :21993,
+        "image": "iwatch3.jpg"
+    },
+    {
+        "id":12,
+        "name": "Oraimo Watch 5 Litev 2.01'' AMOLED Screen Smart Watch",
+        "price" :16187,
+        "image": "iwatch4.jpg"
+    },
+    {
+        "id":13,
+        "name": "Itel 1.83'' Sones Smartwatch (ISWO11) - Black",
+        "price" :14720,
+        "image": "iwatch5.jpg"
+    },
+    {
+        "id":14,
+        "name": "TiLECC 2023 New T900 Pro Max 49mm 2.09-inch Smart Watch",
+        "price" :8290,
+        "image": "iwatch6.jpg"
+    },
+    {
+        "id":15,
+        "name": "In Ear Earbuds Wireless Bluetooth Headset Noise Cancellation",
+        "price" :5345,
+        "image": "airpod7.jpg"
+    },
+    {
+        "id":16,
+        "name": "Oraimo Pods Pro Powerful Bass Tws Wireless Earbud",
+        "price" :6200,
+        "image": "airpod8.jpg"
+    }
+]

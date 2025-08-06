@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name": "PlayStation 5 Slim, PS5 Console Digital Edition for Video Game, Built-in 1TB SSD",
+        "price" :1756586,
+        "image": "ps5(a).jpeg.webp"
+    },
+    {
+        "id":2,
+        "name": "Sony PlayStation 4 Slim 1TB Gaming Console, Black, CUH - 2115B",
+        "price" :812550,
+        "image": "ps5(b).jpeg.webp"
+    },
+    {
+        "id":3,
+        "name": "Sony PS5 DualSense Wireless Controller V2 2024 Model - Cosmic Red + Sony PS5 Microfiber",
+        "price" :336672,
+        "image": "PS5 pad duel.jpeg.webp"
+    },
+    {
+        "id":1,
+        "name": "Sony PS5 DualSense Wireless Controller V2 2024 Model - Camo + Microfiber",
+        "price" :184748,
+        "image": "PS5 pad.jpeg.webp"
+    },
+    {
+        "id":5,
+        "name": "Lenovo 300e Chromebook Gen2",
+        "price" :176235,
+        "image": "lenovo1.png"
+    },
+    {
+        "id":6,
+        "name": " Lenovo ideapad L3 Intel i5-1135G7 12GB RAM 256GB SSD 15.6'' Touch Backlit Windows 10Home",
+        "price" :151485,
+        "image": "lenovo2.jpeg"
+    },
+    {
+        "id":7,
+        "name": "Lenovo ThinkPad E14 Core i7-1165G7 8GB/512GB",
+        "price" :167890,
+        "image": "lenovo3.jpeg"
+    },
+    {
+        "id":8,
+        "name": " ThinkPad X390 (13'') Laptop",
+        "price" :1619985,
+        "image": "thinkpad.png"
+    },
+    {
+        "id":9,
+        "name": "PlayStation PULSE Elite Wireless Headset -,White",
+        "price" :312296,
+        "image": "headset.png"
+    },
+    {
+        "id":10,
+        "name": "Sony PS5 DualSense Wireless Controller - Grev Camouflage",
+        "price" :174785,
+        "image": "PS5 pad2.png"
+    },
+    {
+        "id":11,
+        "name": "Sony PS 3 SuperSlim 500GB With 20 Games",
+        "price" :159000,
+        "image": "PS3 a.jpg"
+    },
+    {
+        "id":12,
+        "name": "Sony PS 3 SuperSlim - 500GB Console",
+        "price" :154000,
+        "image": "PS3 b.jpg"
+    },
+    {
+        "id":13,
+        "name": "Hp DELL Latitude 3350 Intel Core I3 8GB RAM, 500GB HDD Window..",
+        "price" :350500,
+        "image": "window1.jpg"
+    },
+    {
+        "id":14,
+        "name": "DELL Latitude 7490 Core I7/ 32GB RAM 1TB SSD/BLACKLIGHT..",
+        "price" :755000,
+        "image": "window2.jpg"
+    },
+    {
+        "id":15,
+        "name": "Hp 14 INTEL PENTIUM N6000 8GB RAM 512GB SSD 14'' HD INTEL UHD WINS 11",
+        "price" :475000,
+        "image": "window3.jpg"
+    },
+    {
+        "id":16,
+        "name": "DELL Latitude 7390 TOUCHSCREEN Intel Core I5- 16GB RAM/512GB SSD BACKLIGHT KEYBOARD/WIN 11 PRO+BAG",
+        "price" :430000,
+        "image": "window4.jpg"
+    }
+]

@@ -67,7 +67,7 @@
 
     let carts = JSON.parse(localStorage.getItem('cart')) || [];
 
-    fetch('products.json')
+    fetch('gadgets.json')
       .then(res => res.json())
       .then(products => {
         let total = 0;
@@ -94,7 +94,7 @@
     confirmBtn.addEventListener('click', () => {
       alert("Thank you for your purchase!");
       localStorage.removeItem('cart');
-      window.location.href = 'products.html'; // change if your main page has a different name
+      window.location.href = 'gadgets.html'; // change if your main page has a different name
     });
   </script>
 </body>

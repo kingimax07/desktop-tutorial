@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name": "Silver Heart Shaped Cubic Zircon Pendant April Birthstone Necklace ",
+        "price" :30939,
+        "image": "silver heart.jpg"
+    },
+    {
+        "id":2,
+        "name": "Gold, Jewelry Set for Women, 53 PC Gold Plated Jewelry Set with 9 Necklace",
+        "price" :46311,
+        "image": "golden jewelry set.jpg"
+    },
+    {
+        "id":3,
+        "name": "JewelOra Personalized Bracelets for Women, Custom Bracelets with 5 Stimulated Gems",
+        "price" :57269,
+        "image": "JewelOra.jpg"
+    },
+    {
+        "id":4,
+        "name": "Antique Victorian Ring",
+        "price" :32000,
+        "image": "Antique jewelry.png.webp"
+    },
+    {
+        "id":5,
+        "name": "Beladora: Authentic Designer and Estate Jewelry",
+        "price" :253492,
+        "image": "Beladora.mobile.jpg.webp"
+    },
+    {
+        "id":6,
+        "name": "Handcrafted Angel Jewelry Set - Necklace, Bracelet, & Earrings Teal Blue Jewelry SET Crystal Wedding",
+        "price" :234560,
+        "image": "Angel Jewelry Set.webp"
+    },
+    {
+        "id":7,
+        "name": "Casio Gent' Black Leather",
+        "price" :70100,
+        "image": "Casio gen.jpg"
+    },
+    {
+        "id":8,
+        "name": "Casio Gent",
+        "price" :75700,
+        "image": "Casio gent.jpg"
+    },
+    {
+        "id":9,
+        "name": "Invicta IVN47402/..",
+        "price" :321000,
+        "image": "invicta.jpg"
+    },
+    {
+        "id":10,
+        "name": "InvictaINV47396",
+        "price" :337000,
+        "image": "invincta.jpg"
+    },
+    {
+        "id":11,
+        "name": " Men's Rings 5 Piece",
+        "price" :12000,
+        "image": "rings1.jpeg"
+    },
+    {
+        "id":12,
+        "name": "New Mens Fortified Pixiu Feng Shui Black Obsidian Wealth Ring",
+        "price" :5500,
+        "image": "rings2.jpg"
+    },
+    {
+        "id":13,
+        "name": "Stainless Male Ring Wonderful Jewelry Gift For Men Women...",
+        "price" :1980,
+        "image": "stainless.jpg"
+    },
+    {
+        "id":14,
+        "name": "3PCS SET Stainless Male Ring Wonderful Jewelry Gift For Men...",
+        "price" :6408,
+        "image": "rings3.jpg"
+    },
+    {
+        "id":15,
+        "name": "ARHANORY Skull Rings For Men Adjustable Vintage Punk Ring -...",
+        "price" :1870,
+        "image": "skull.jpg"
+    },
+    {
+        "id":16,
+        "name": "Gold Bold Ring For Men",
+        "price" :4780,
+        "image": "tungsten.jpg"
+    }
+]
