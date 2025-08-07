@@ -38,7 +38,7 @@
   }
   
   .dropbtn {
-    background-color: #444;
+    background-color: rgb(255, 165, 0);
     color: white;
     padding: 12px 16px;
     font-size: 16px;
@@ -50,7 +50,7 @@
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.524);
     color: black;
     min-width: 160px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
@@ -122,4 +122,10 @@
     box-shadow: 0px 4px 10px rgba(221, 137, 28, 0.882);
     transform: scale(1.05);
   }
+  @media screen and (max-width:320px) {
+    .landing{
+      width: 500px;
+    }
+  }
+
   
